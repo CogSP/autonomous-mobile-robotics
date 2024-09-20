@@ -10,6 +10,8 @@ Resources for the Sapienza AMR course, held by Prof. Oriolo. (oriolo@diag.unirom
 
 ## Didactic Material
 
+- Recordings: audio of the lessons will be provided
+
 - Textbooks: the three suggested textbooks are available [here](https://drive.google.com/drive/folders/1iVVsa5YCw1IODRD4ZuuUnNy4_YOhSOM-). I couldn’t upload the files to GitHub because they are too large. Additionally, please note that the available textbooks are not the latest versions. All these books are available in the DIAG library.
 
 - Program:
@@ -19,19 +21,19 @@ Resources for the Sapienza AMR course, held by Prof. Oriolo. (oriolo@diag.unirom
 	- Wheeled Mobile Robots: Nonholonomic constraints and kinematic models of mobile robots (blackboard)
 	- Wheeled Mobile Robots: Path and trajectory planning (blackboard with the addition of companion [slides](https://www.diag.uniroma1.it/oriolo/amr/slides/WheeledMobileRobots3_CompSlides.pdf))
 	- Wheeled Mobile Robots: Motion control - Introduction and Trajectory tracking ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/WheeledMobileRobots4_Slides.pdf))
-	- Wheeled Mobile Robots: Motion control - Regulation (slides)
+	- Wheeled Mobile Robots: Motion control - Regulation ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/WheeledMobileRobots5_Slides.pdf))
 	- Wheeled Mobile Robots: Mobile manipulators (slides)
 	- Perception: Sensors for mobile robots (slides)
-	- Localization: Odometric localization (slides)
-	- Localization: Kalman Filter (slides)
-	- Localization: Landmark-based and SLAM (slides)
-	- Motion Planning: Introduction and roadmap methods (slides)
-	- Motion Planning: Probabilistic methods (slides)
-	- Motion Planning: Artificial potential fields (slides)
-	- Humanoid Robots: Introduction (slides)
-	- Humanoid Robots: Dynamic modeling (slides)
-	- Humanoid Robots: Balance (slides)
-	- Humanoid Robots: Gait generation (slides)
-	- Humanoid Locomotion: A demonstration (slides)
-	- An introduction to V-REP with applications to motion planning (slides)
-	- ROS tutorial: Posture regulation with TIAGo (slides)
+	- Localization: Odometric localization ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/Localization1_Slides.pdf))
+	- Localization: Kalman Filter ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/Localization2_Slides.pdf))
+	- Localization: Landmark-based and SLAM ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/Localization3_Slides.pdf))
+	- Motion Planning: Introduction and roadmap methods ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/MotionPlanning1_Slides.pdf))
+	- Motion Planning: Probabilistic methods ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/MotionPlanning2_Slides.pdf))
+	- Motion Planning: Artificial potential fields ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/MotionPlanning3_Slides.pdf))
+	- Humanoid Robots: Introduction ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidRobots1_Slides.pdf))
+	- Humanoid Robots: Dynamic modeling ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidRobots2_Slides.pdf))
+	- Humanoid Robots: Balance ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidRobots3_Slides.pdf))
+	- Humanoid Robots: Gait generation ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidRobots4_Slides.pdf))
+	- Humanoid Locomotion: A demonstration ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidLocomotion.pdf))
+	- An introduction to V-REP with applications to motion planning ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/VREP_with_applications.pdf))
+	- ROS tutorial: Posture regulation with TIAGo ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/ROS_with_TIAGo.pdf))
