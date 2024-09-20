@@ -10,10 +10,6 @@ Resources for the Sapienza AMR course, held by Prof. Oriolo. (oriolo@diag.unirom
 
 ## Didactic Material
 
-- Recordings: audio of the lessons will be provided
-
-- Textbooks: the three suggested textbooks are available [here](https://drive.google.com/drive/folders/1iVVsa5YCw1IODRD4ZuuUnNy4_YOhSOM-). I couldn’t upload the files to GitHub because they are too large. Additionally, please note that the available textbooks are not the latest versions. All these books are available in the DIAG library.
-
 - Program:
 	- Introduction: Applications, Problems, Architectures ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/Introduction_Slides.pdf), videos not included)
 	- Configuration space 
@@ -37,3 +33,18 @@ Resources for the Sapienza AMR course, held by Prof. Oriolo. (oriolo@diag.unirom
 	- Humanoid Locomotion: A demonstration ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/HumanoidLocomotion.pdf))
 	- An introduction to V-REP with applications to motion planning ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/VREP_with_applications.pdf))
 	- ROS tutorial: Posture regulation with TIAGo ([slides](https://www.diag.uniroma1.it/oriolo/amr/slides/ROS_with_TIAGo.pdf))
+
+
+- Recordings: audio of the lectures will be provided
+
+- Notes: lecture's note will be provided in this repository
+
+- Textbooks: the three suggested textbooks are available [here](https://drive.google.com/drive/folders/1iVVsa5YCw1IODRD4ZuuUnNy4_YOhSOM-). I couldn’t upload the files to GitHub because they are too large. Additionally, please note that the available textbooks are not the latest versions. All these books are available in the DIAG library.
+
+- Exams: Midterm and Final class test are provided in the "Miscellaneous Material" section of the [AMR website](https://www.diag.uniroma1.it/oriolo/amr/)
+
+ - Control Theory brush-up:
+   	- [Review of stability theory](https://www.diag.uniroma1.it/oriolo/amr/material/stability.pdf)
+	- [Basics of stabilization via feedback](https://www.diag.uniroma1.it/oriolo/amr/material/StabViaRetr.pdf)
+
+ - Software: MATLAB/Simulink Code is provided in the "Sofware" section of the [AMR website](https://www.diag.uniroma1.it/oriolo/amr/)
