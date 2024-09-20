@@ -1,6 +1,8 @@
 # Autonomous and Mobile Robotics
 Resources for the Sapienza AMR course, held by Prof. Oriolo. (oriolo@diag.uniroma1.it)
 
+![logo](curiosity.jpeg)
+
 ## Websites
 
 - [Google Group](https://groups.google.com/g/AMR_GG)
