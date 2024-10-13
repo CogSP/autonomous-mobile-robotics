@@ -3,7 +3,7 @@
 - Problem 1: single-legged hopping robot
 	(a) geometry of the configuration space
 	(b) kinematic model of the robot with physical interpretation
-		- you may choose a basis for which the physical interpretation of $u_i$ is not clear
+		- you may choose a basis for which the physical interpretation of $u_i$ is not clear. In that case you have to re-try.
 	(c) TODO
 	(d) TODO
 	(e) TODO
@@ -36,11 +36,16 @@
 - 11.3: Show the involutivity of the distribution $\Delta = span{g_1, …, g_{n-1}}$ for a kinematic model with a single kinematic constraint
 - 11.4: Prove that a set of Pfaffian constraints that doesn't depend on the generalized coordinates $q$ is always integrable and so is not controllable
 	- the explanation is written in a textbox in the solutions pdf
-- 11.5: TODO
-- 11.6: TODO
-- 11.7: TODO
-- 11.8: TODO
-- 11.9: TODO
+- 11.5: given the a sequence of velocity input in interval $\epsilon$ for the unicycle KM, show that $\epsilon$ infinitesimal makes the displacement aligned with the Lie Bracked of the input VF
+- 11.6: Prove the input transformation from the differential drive vehicle to the equivalent unicycle
+- 11.7: For the bycicle
+	- Determine the Instantaneous Centre of Rotation (ICR) cartesian position. RF centered in the rear wheel with x' aligned with the bicycle body
+	- Find the angular velocity as a function of $q$ and RW center. It's the same as the one in the KM of the bicycle
+	- Find the linaer velocity of a generic point P on the robot chassis
+- 11.8: KM of the trycicle robot towing N trailers
+- 11.9: Differential drive with bounds $|\omega_R(t)| \leq \omega_{RL}$ and $|\omega_L(t)| \leq \omega_{RL}$, that is a square of admissible region in the $\omega_R$, $\omega_L$ plane. Describe the corresponding constraint in the $v$, $\omega$ plane. 
+	- It can be proven that it's a rhombus
+	- You can find the maximum values for $v$ and $\omega$ given these bounds
 - 12.1: Configuration space of a 6 DoF robot mounted on a unicycle
 	- keep in mind that even in $\mathbb{R}^3$ a rotation in $SO(2)$ (see 2. Configuration Space)
 - 12.2: Modify configuration space distance for a 2R manipulator so that the posture doesn't change if $q_1$ and $q_2$ are increased (or decreased) by a multiple of $2\pi$
