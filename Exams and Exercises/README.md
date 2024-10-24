@@ -3,10 +3,14 @@
 - Problem 1: single-legged hopping robot
 	(a) geometry of the configuration space
 	(b) kinematic model of the robot with physical interpretation
+		- aim at obtaining $\dot{\phi} = u_1$ and $\dot{l} = u_2$ since these are respectively the directly actuated revolute and prismatic joint
 		- you may choose a basis for which the physical interpretation of $u_i$ is not clear. In that case you have to re-try.
-	(c) TODO
+	(c) Local and Global mobility
+		- Local mobility given by the fact that $\dot{q} \in \mathbb{N}(A^T(q)$
+		- Global mobility must be proven with $dim(\Delta_{A}) = n
+  			- Note that you just have to find 3 linearly independent vector to prove it, no need to go further since the matrix is $3 \times 3$ and so all the other vectors will be linearly dependent
 	(d) TODO
-	(e) TODO
+	(e) consider $d = 0$, DF and reconstruction formulas. Then devise the path planning.
 
 - Problem 2: TODO
 
