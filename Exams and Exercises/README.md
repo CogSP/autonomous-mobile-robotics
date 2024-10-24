@@ -20,9 +20,9 @@
 # Midterm 2021-2022
 
 - Problem 1: point $q = (x, y, z)$ constrained to move over a sphere surface
-	(a) GC and KC
-	(b) Local and Global mobility
-	(c) KM and controllability
+	- (a) GC and KC
+	- (b) Local and Global mobility
+	- (c) KM and controllability
 
 - Problem 2: TODO
 
